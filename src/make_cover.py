@@ -2,7 +2,7 @@ import os
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
 from .log import get_logger
-from src.generate_gradient import generate_gradient
+from .generate_gradient import generate_gradient
 
 logger = get_logger(__name__)
 
