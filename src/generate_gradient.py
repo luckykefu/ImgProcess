@@ -2,7 +2,7 @@ import math
 import os
 import random
 from PIL import Image, ImageDraw
-from src.log import get_logger
+from .log import get_logger
 
 logger = get_logger(__name__)
 
