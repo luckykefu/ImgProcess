@@ -1,1 +1,4 @@
-gradio
+colorama==0.4.6
+gradio==4.44.0
+numpy==2.1.1
+Pillow==10.4.0
